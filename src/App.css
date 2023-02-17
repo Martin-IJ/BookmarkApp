@@ -3,7 +3,6 @@
   padding: 0;
   box-sizing: border-box;
   list-style-type: none;
-  /* overflow-x: hidden; */
 }
 
 .App {
@@ -48,10 +47,6 @@
   background-color: rgb(226, 226, 226);
 }
 
-.hamburgerr {
-  border: none;
-}
-
 .body {
   width: 100vw;
   height: 100vh;
@@ -69,7 +64,6 @@
 
 .banImg {
   width: 100%;
-  /* height: 300px; */
 }
 
 .holdBck {
@@ -89,8 +83,6 @@
 }
 
 .tab2img {
-  /* display: flex;
-  justify-content: center; */
   width: 100%;
 }
 

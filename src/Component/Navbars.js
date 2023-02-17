@@ -1,6 +1,5 @@
 import React from "react";
 import Logo from "../Assets/logo-bookmark.svg";
-import Hamburger from "../Assets/icon-hamburger.svg";
 
 const Navbars = () => {
   return (
@@ -21,7 +20,6 @@ const Navbars = () => {
             aria-label="Toggle navigation"
           >
             <span className="navbar-toggler-icon"></span>
-            {/* <img src={Hamburger} alt="" /> */}
           </button>
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0 navbarrr">
