@@ -4,22 +4,22 @@ const AccordionDd = () => {
   return (
     <div>
         <div class="accordion-item">
-            <h2 class="accordion-header" id="flush-headingThree">
+            <h2 class="accordion-header" id="flush-headingFour">
               <button
                 class="accordion-button collapsed"
                 type="button"
                 data-bs-toggle="collapse"
-                data-bs-target="#flush-collapseThree"
+                data-bs-target="#flush-collapseFour"
                 aria-expanded="false"
-                aria-controls="flush-collapseThree"
+                aria-controls="flush-collapseFour"
               >
                 This thing hard ahswr 😩
               </button>
             </h2>
             <div
-              id="flush-collapseThree"
+              id="flush-collapseFour"
               class="accordion-collapse collapse"
-              aria-labelledby="flush-headingThree"
+              aria-labelledby="flush-headingFour"
               data-bs-parent="#accordionFlushExample"
             >
               <div class="accordion-body">
